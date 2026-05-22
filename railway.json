@@ -1,8 +1,9 @@
 {
+  "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "rootDirectory": "Miku bot unfinished/files"
+    "builder": "RAILPACK"
   },
   "deploy": {
-    "startCommand": "python bot.py"
+    "startCommand": "python main.py"
   }
 }
