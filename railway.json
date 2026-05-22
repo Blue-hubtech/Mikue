@@ -1,0 +1,8 @@
+{
+  "build": {
+    "rootDirectory": "Miku bot unfinished/files"
+  },
+  "deploy": {
+    "startCommand": "python bot.py"
+  }
+}
